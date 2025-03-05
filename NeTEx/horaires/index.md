@@ -738,6 +738,13 @@ autorisés à monter à bord ou à descendre du véhicule aux arrêts.
 <td>0:1</td>
 <td>Décalage de jour si le jour de départ du VEHICLE JOURNEY est différent de l’OPERATING DAY courant (typiquement -1 pour « <em>la veille</em> »)..</td>
 </tr>
+<tr class="odd">
+<td></td>
+<td colspan="2"><em><strong>ArrivalDayOffset</strong></em></td>
+<td><em>DayOffsetType</em></td>
+<td>0:1</td>
+<td>Décalage de jour si le jour d'arrivée du VEHICLE JOURNEY est différent de l’OPERATING DAY courant (typiquement -1 pour « <em>la veille</em> »)..</td>
+</tr>
 <tr class="even">
 <td>«cntd»</td>
 <td colspan="2"><em><strong><del>Frequency</del></strong></em></td>
